@@ -1,0 +1,3 @@
+code = "212230"
+name = "Copper, Lead, Ore, and Zinc Mining"
+sic_correlations = ["1021", "1031", "1061"]
